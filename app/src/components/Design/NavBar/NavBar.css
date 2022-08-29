@@ -1,0 +1,16 @@
+.navBarDiv {
+    margin: 0 3vw;
+}
+
+.navbar {
+    box-shadow: 0px 2px 4px rgb(179, 179, 179);
+}
+
+.active {
+    border-bottom: 2px solid #3969a0;
+}
+
+.logo {
+    height: 3rem;
+    padding-right: 0.5rem;
+}

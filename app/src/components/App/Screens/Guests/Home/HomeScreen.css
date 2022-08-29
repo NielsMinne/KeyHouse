@@ -1,0 +1,39 @@
+.homeWrap {
+    display: flex;
+    flex-direction: column;
+
+    position: absolute;
+    top: 30%;
+}
+
+.homeWrap h1 {
+    text-align: left;
+}
+
+.homeBody {
+    height: 100%;
+}
+
+.productWrap {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.homeBtn {
+    margin-top: 2rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.homeBtn a {
+    width: 40%;
+}
+
+.logoHome {
+    position: absolute;
+    width: 30vw;
+    top: 20%;
+    right: 20%;
+}

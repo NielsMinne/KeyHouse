@@ -1,0 +1,157 @@
+{
+    "onboarding": {
+        "login": {
+            "title": "Login",
+            "button": "Login"
+        },
+        "register": {
+            "title": "Register",
+            "button": "Register"
+        }
+    },
+    "organization" : {
+        "name" : "Keyhouse"
+    },
+    "navigation": {
+        "agencies": "Agencies",
+        "properties": "Properties",
+        "users": "Users",
+        "messages": "Messages",
+        "categories": "Categories",
+        "home" : "Home",
+        "forSale" : "For Sale",
+        "toRent" : "To Rent",
+        "welcome": "Welcome",
+        "edit" : "Edit Account",
+        "addAgent": "Add Agent",
+        "editAgency" : "Edit Agency",
+        "favorites": "Favorites"
+    },
+    "agencies": {
+        "title": "Agencies",
+        "overview": {
+            "title": "Agencies",
+            "create": "Create Agency"
+        },
+        "create": {
+            "title": "Create Agency",
+            "agent" : "Create Agent"
+        },
+        "edit": {
+            "title": "Edit Agency"
+        },
+        "fields": {
+            "phone": "Phone Number",
+            "actions": "Actions"
+        }
+    },
+    "properties": {
+        "title": "Properties",
+        "overview": {
+            "title": "Properties",
+            "create": "Create Property"
+        },
+        "create": {
+            "title": "Create Property"
+        },
+        "edit": {
+            "title": "Edit Property"
+        }
+    },
+    "Messages": {
+        "title": "Messages",
+        "overview": {
+            "title": "Messages",
+            "create": "Create Message",
+            "edit": "Edit Message"
+        },
+        "create": {
+            "title": "Create Message"
+        },
+        "edit": {
+            "title": "Edit Message"
+        }
+    },
+    "favorites": {
+        "overview": {
+            "title": "Favorites"
+        }
+    },
+    "users": {
+        "title": "Users",
+        "overview": {
+            "title": "Users",
+            "create": "Create user"
+        },
+        "create": {
+            "title": "Create user"
+        },
+        "edit": {
+            "title": "Edit user",
+            "password_print": "Leave blank if you don't want to change the password"
+        }
+    },
+    "categories": {
+        "title": "Categories",
+        "overview": {
+            "title": "Categories",
+            "create": "Create Category"
+        },
+        "create": {
+            "title": "Create Category"
+        },
+        "edit": {
+            "title": "Edit Category"
+        }
+    },
+    "buttons": {
+        "create": "Create",
+        "edit": "Edit",
+        "save": "Save",
+        "detail" : "Details",
+        "goToRent" : "Go To Rent",
+        "goToSale": "Go To Sale"
+    },
+    "home" : {
+        "welcome" : "Welcome to Keyhouse",
+        "subtext" : "The place where your house is within reach"
+    },
+    "agent" : {
+        "addAgent" : "Add Agent"
+    },
+    "fields": {
+        "id": "Id",
+        "email": "Email",
+        "avatar": "Avatar",
+        "name": "Name",
+        "surname": "Surname",
+        "password": "Password",
+        "agency": "Agency",
+        "property": "Property",
+        "user": "User",
+        "role": "Role",
+        "description": "Description",
+        "date": "Date",
+        "time": "Time",
+        "phone": "Phone Number",
+        "address": "Address",
+        "city": "City",
+        "action": "Actions",
+        "square": "Surface in m²",
+        "sqr" : "m²",
+        "price": "Price",
+        "year" : "Build Year",
+        "saleOrRent" : "For Sale | To Rent",
+        "rooms" : "Rooms",
+        "bathrooms": "Bathrooms",
+        "category": "Category",
+        "soldOrAvailable": "Available | Sold",
+        "detail": "Detail"
+    },
+    "page" : {
+        "forSale" : "For Sale"
+    },
+    "euro": "€",
+    "noAdress" : "Please login to see the address of the property",
+    "generatePassword": "Generate Password"
+}

@@ -1,0 +1,29 @@
+.agency {
+    margin-bottom: 2rem;
+}
+
+.infoWrap {
+    display: flex;
+    gap: 2vw;
+}
+
+.infoWrap img {
+    width: 20rem !important;
+    height: 20rem !important;
+    object-fit: contain;
+    box-shadow: 0px 2px 5px rgb(211, 211, 211);
+}
+
+.propertyInfo {
+    display: grid;
+    gap: 2rem;
+    padding-left: 3rem;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.agencyInfo {
+    display: grid;
+    gap: 2rem;
+    padding-left: 3rem;
+    grid-template-columns: repeat(2, 1fr);
+}
